@@ -8,7 +8,7 @@ A slack bot used to act as a companion to new people in tech. Helps people find 
 - [ ] [Medium API](https://github.com/Medium/medium-sdk-go?ref=https://githubhelp.com)
 - [ ] [Hash Node API](https://api.hashnode.com/)
 - [ ] [Discord API/User Creds](https://github.com/bwmarrin/discordgo)
-- [ ] [Discord User Creds] (https://discord.com/developers/docs/resources/user)
+- [ ] [Discord User Creds](https://discord.com/developers/docs/resources/user)
 - [ ] [Youtube API](https://developers.google.com/youtube/v3/code_samples/go)
 - [ ] [RSS feed library](https://github.com/mmcdole/gofeed)
 - [ ] [Template library](https://pkg.go.dev/text/template)
