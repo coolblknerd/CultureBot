@@ -6,12 +6,13 @@ A slack bot used to act as a companion to new people in tech. Helps people find 
 
 - [ ] [Twitter SDK](https://github.com/dghubble/go-twitter)
 - [ ] [Medium API](https://github.com/Medium/medium-sdk-go?ref=https://githubhelp.com)
-- [ ] Hash Node API
-- [ ] Discord API/User Creds
-- [ ] Youtube API
-- [ ] RSS feed library
-- [ ] Template library
-- [ ] Slack API - slack-go
+- [ ] [Hash Node API](https://api.hashnode.com/)
+- [ ] [Discord API/User Creds](https://github.com/bwmarrin/discordgo)
+- [ ] [Discord User Creds] (https://discord.com/developers/docs/resources/user)
+- [ ] [Youtube API](https://developers.google.com/youtube/v3/code_samples/go)
+- [ ] [RSS feed library](https://github.com/mmcdole/gofeed)
+- [ ] [Template library](https://pkg.go.dev/text/template)
+- [ ] [Slack API - slack-go](https://github.com/slack-go/slack)
 - [ ] Logs - Zap
 - [ ] Redis SDK Cache
 - [ ] Golang Linter
