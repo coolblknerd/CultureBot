@@ -5,7 +5,7 @@ A slack bot used to act as a companion to new people in tech. Helps people find 
 ## Libraries we need
 
 - [ ] [Twitter SDK](https://github.com/dghubble/go-twitter)
-- [ ] Medium API
+- [ ] [Medium API] (https://github.com/Medium/medium-sdk-go?ref=https://githubhelp.com) - 2017 -{ might have to build new one}
 - [ ] Hash Node API
 - [ ] Discord API/User Creds
 - [ ] Youtube API
