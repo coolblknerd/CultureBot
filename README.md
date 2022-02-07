@@ -15,7 +15,7 @@ A slack bot used to act as a companion to new people in tech. Helps people find 
 - [ ] [Slack API - slack-go](https://github.com/slack-go/slack)
 - [ ] Logs - Zap
 - [ ] Redis SDK Cache
-- [ ] Golang Linter
+- [ ] [Golang Linter](https://github.com/golangci/golangci-lint)
 - [ ] Testing/Mocking library
 
 ### Development Set-up
